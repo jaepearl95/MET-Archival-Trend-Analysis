@@ -1,4 +1,4 @@
-# Archival Trend Analysis
+# MET Archival Trend Analysis
 
 ## Summary
 The project files run scripts that map visual clustering of information. The information that is clustered is 
